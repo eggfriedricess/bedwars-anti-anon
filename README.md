@@ -10,4 +10,9 @@ autododge: In progress (just need to fix the settings for it, will come out in f
 
 As of September 2024, this overlay still works in-game. 
 
+INSTALLATION
+Download the latest version of the overlay as an executable file (.exe).
+
+
+
 
