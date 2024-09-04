@@ -16,6 +16,7 @@ As of September 2024, this overlay still works in-game.
 INSTALLATION:
 
 Download the latest version of the executable (.exe).
+
 https://github.com/eggfriedricess/bedwars-anti-anon/releases/tag/v1.0.0
 
 GUIDE:
