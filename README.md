@@ -17,6 +17,7 @@ INSTALLATION:
 
 Download the latest version of the executable (.exe).
 
+(Valid as of 4/9/2024): 
 https://github.com/eggfriedricess/bedwars-anti-anon/releases/tag/v1.0.0
 
 GUIDE:
