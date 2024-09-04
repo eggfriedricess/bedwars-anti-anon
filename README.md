@@ -27,7 +27,7 @@ GUIDE 📄:
 4. Queue a game! 
 
 
-Known Bugs 🐞:
+KNOWN BUGS 🐞:
 None thus far
 
 
