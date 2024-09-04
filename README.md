@@ -13,13 +13,16 @@ autododge: In progress (just need to fix the settings for it, will come out in f
 
 As of September 2024, this overlay still works in-game. 
 
-INSTALLATION
+INSTALLATION:
+
+Download the latest version of the executable (.exe).
+https://github.com/eggfriedricess/bedwars-anti-anon/releases/tag/v1.0.0
 
 GUIDE:
-1. run the file
+1. Run the file
 2. Put in your hypixel username
-3. minimize the application to how you like it
-4. queue a game! 
+3. Minimize the application according to your preferences
+4. Queue a game! 
 
 
 
